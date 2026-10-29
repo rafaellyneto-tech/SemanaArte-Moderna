@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Redaction:ital,wght@0,400;0,700;1,400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Redaction:ital,wght@0,400;0,700;1,400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e2f0f8;
+    color: #444444;
+}
+
+header {
+    background-color: #f8dd3e;
+    text-align: center;
+    padding: 35px;
+}
+
+header h1 {
+    color: #5fb5fc;
+    font-family: 'Anton';
+    font-size: 45px;
+}
+
+header p {
+    color: #66545c;
+}
+
+nav {
+    background-color: #dcebd9;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: #609354;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ca5686;
+}
+
+main {
+    width: 85%;
+    margin: auto;
+}
+
+section {
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: 'Libre Baskerville';
+    color: white;
+}
+
+.introducao {
+    background-color: #e2f0f8;
+    text-align: center;
+}
+
+
+img{
+    width: 500px;
+
+}
+
+p{
+    color:white
+}
+
+
+.obra1{
+    background-color: #5d995c;
+    text-align: center;
+    padding: 15px;
+}
+
+.obra2{
+    background-color: rgb(76, 22, 22);
+    text-align: center;
+    padding: 15px;
+}
+
+.obra3{
+    background-color: #80857f;
+    text-align: center;
+    padding: 15px;
+}
+
+.obra4{
+    background-color: #51b8d3;
+    text-align: center;
+    padding: 15px;
+}
+
+
+
+.obra5{
+    background-color: #0e51b8;
+    text-align: center;
+    padding: 15px;
+}
+
+.obra6{
+    background-color: #ebb3b2;
+    text-align: center;
+    padding: 15px;
+}
+ 
+
+footer {
+    background-color: #dcebd9;
+    text-align: center;
+    padding: 20px;
+    margin-top: 25px;
+    color: #456b50;
+}
